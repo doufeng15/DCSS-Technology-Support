@@ -1,0 +1,5 @@
+{
+  "name": "DCSS Field Engineer Portal",
+  "description": "A centralized technical document hub for DCSS Technology Japan field engineers, linking directly to Box procedures and SharePoint Knowledge Base with AI assistance.",
+  "requestFramePermissions": []
+}
